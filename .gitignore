@@ -1,0 +1,4 @@
+data/*.csv
+.RData
+.RHistory
+results/*Fit
